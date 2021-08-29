@@ -18,7 +18,7 @@
    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
   
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  </p>
+  
   
   <a href="https://www.javatpoint.com/django-tutorial" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
@@ -37,7 +37,7 @@
   <a href="https://www.javatpoint.com/sql-tutorial" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="oracle" width="40" height="40"/> </a>
   
-
+</p>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
