@@ -18,10 +18,10 @@ Hi 👋, I am Bhanu Prakash Nattala
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanunattala&show_icons=true&locale=en&layout=compact" alt="bhanunattala" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanu-nattala&show_icons=true&locale=en&layout=compact" alt="bhanu-nattala" /></p>
 </details>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanunattala&show_icons=true&locale=en" alt="bhanunattala" style"width:150px"/></p>-->
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanu-nattala&show_icons=true&locale=en" alt="bhanu-nattala" style"width:150px"/></p>-->
 
 
 
@@ -32,7 +32,7 @@ That's all for now....Hope you star my repositories....
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Bhanupr73008990" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanuprakashnattala" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anirudh._.gudugunti/ target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anirudh._.gudugunti" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maa.calls.me.nani/ target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maa.calls.me.nani" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nattala-bhanu-prakash-7b4612184/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="bhanuprakashnattala"40" /></a>
 
 </p>
