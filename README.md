@@ -2,7 +2,7 @@ Hi 👋, I am Bhanu Prakash Nattala
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanuprakashnattala&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuprakashnattala" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhanuprakashnattala" alt="bhanuprakashnattala" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhanu-nattala" alt="bhanuprakashnattala" /></a> </p>
 <p align="left"> <a href="https://twitter.com/Bhanupr73008990" target="blank"><img src="https://img.shields.io/twitter/follow/Bhanupr73008990?logo=twitter&style=for-the-badge" alt="Bhanupr73008990" /></a> </p>
 
 
